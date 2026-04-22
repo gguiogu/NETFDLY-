@@ -5,3 +5,5 @@ aiohttp
 python-telegram-bot
 python-aliexpress-api
 Pillow
+motor
+supabase
